@@ -1,4 +1,4 @@
-RTL_FILES  := top.sv dut.sv
+RTL_FILES  := src/top.sv src/dut.sv
 TOP_MODULE := top
 SIMV       := simv
 WAVES      := waves.fst
